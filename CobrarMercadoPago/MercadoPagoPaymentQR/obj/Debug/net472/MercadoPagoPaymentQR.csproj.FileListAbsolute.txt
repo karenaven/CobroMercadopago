@@ -1,0 +1,48 @@
+C:\Users\Renzo\Desktop\pagos\PAGOS-BARES 06-09-21\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.csproj.AssemblyReference.cache
+C:\Users\Renzo\Desktop\pagos\PAGOS-BARES 06-09-21\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzo\Desktop\pagos\PAGOS-BARES 06-09-21\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.AssemblyInfoInputs.cache
+C:\Users\Renzo\Desktop\pagos\PAGOS-BARES 06-09-21\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.AssemblyInfo.cs
+C:\Users\Renzo\Desktop\pagos\PAGOS-BARES 06-09-21\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.csproj.CoreCompileInputs.cache
+C:\Users\Renzo\Desktop\pagos\PAGOS-BARES 06-09-21\MercadoPagoPaymentQR\bin\Debug\net472\MercadoPagoPaymentQR.dll
+C:\Users\Renzo\Desktop\pagos\PAGOS-BARES 06-09-21\MercadoPagoPaymentQR\bin\Debug\net472\MercadoPagoPaymentQR.pdb
+C:\Users\Renzo\Desktop\pagos\PAGOS-BARES 06-09-21\MercadoPagoPaymentQR\bin\Debug\net472\Newtonsoft.Json.dll
+C:\Users\Renzo\Desktop\pagos\PAGOS-BARES 06-09-21\MercadoPagoPaymentQR\bin\Debug\net472\QRCoder.dll
+C:\Users\Renzo\Desktop\pagos\PAGOS-BARES 06-09-21\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.csproj.CopyComplete
+C:\Users\Renzo\Desktop\pagos\PAGOS-BARES 06-09-21\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.dll
+C:\Users\Renzo\Desktop\pagos\PAGOS-BARES 06-09-21\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.pdb
+C:\Users\Renzo\Desktop\COOLPAY\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\bin\Debug\net472\MercadoPagoPaymentQR.dll
+C:\Users\Renzo\Desktop\COOLPAY\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\bin\Debug\net472\MercadoPagoPaymentQR.pdb
+C:\Users\Renzo\Desktop\COOLPAY\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\bin\Debug\net472\Newtonsoft.Json.dll
+C:\Users\Renzo\Desktop\COOLPAY\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\bin\Debug\net472\QRCoder.dll
+C:\Users\Renzo\Desktop\COOLPAY\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.csproj.AssemblyReference.cache
+C:\Users\Renzo\Desktop\COOLPAY\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzo\Desktop\COOLPAY\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.AssemblyInfoInputs.cache
+C:\Users\Renzo\Desktop\COOLPAY\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.AssemblyInfo.cs
+C:\Users\Renzo\Desktop\COOLPAY\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.csproj.CoreCompileInputs.cache
+C:\Users\Renzo\Desktop\COOLPAY\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.csproj.CopyComplete
+C:\Users\Renzo\Desktop\COOLPAY\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.dll
+C:\Users\Renzo\Desktop\COOLPAY\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.pdb
+C:\Users\Programacion 1\Desktop\COOLPAY\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\bin\Debug\net472\MercadoPagoPaymentQR.dll
+C:\Users\Programacion 1\Desktop\COOLPAY\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\bin\Debug\net472\MercadoPagoPaymentQR.pdb
+C:\Users\Programacion 1\Desktop\COOLPAY\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\bin\Debug\net472\Newtonsoft.Json.dll
+C:\Users\Programacion 1\Desktop\COOLPAY\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\bin\Debug\net472\QRCoder.dll
+C:\Users\Programacion 1\Desktop\COOLPAY\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.csproj.AssemblyReference.cache
+C:\Users\Programacion 1\Desktop\COOLPAY\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programacion 1\Desktop\COOLPAY\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.AssemblyInfoInputs.cache
+C:\Users\Programacion 1\Desktop\COOLPAY\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.AssemblyInfo.cs
+C:\Users\Programacion 1\Desktop\COOLPAY\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.csproj.CoreCompileInputs.cache
+C:\Users\Programacion 1\Desktop\COOLPAY\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.csproj.CopyComplete
+C:\Users\Programacion 1\Desktop\COOLPAY\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.dll
+C:\Users\Programacion 1\Desktop\COOLPAY\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.pdb
+C:\Users\Programacion 1\Desktop\COOLPAY App Kiosko\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\bin\Debug\net472\MercadoPagoPaymentQR.dll
+C:\Users\Programacion 1\Desktop\COOLPAY App Kiosko\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\bin\Debug\net472\MercadoPagoPaymentQR.pdb
+C:\Users\Programacion 1\Desktop\COOLPAY App Kiosko\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\bin\Debug\net472\Newtonsoft.Json.dll
+C:\Users\Programacion 1\Desktop\COOLPAY App Kiosko\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\bin\Debug\net472\QRCoder.dll
+C:\Users\Programacion 1\Desktop\COOLPAY App Kiosko\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.csproj.AssemblyReference.cache
+C:\Users\Programacion 1\Desktop\COOLPAY App Kiosko\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programacion 1\Desktop\COOLPAY App Kiosko\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.AssemblyInfoInputs.cache
+C:\Users\Programacion 1\Desktop\COOLPAY App Kiosko\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.AssemblyInfo.cs
+C:\Users\Programacion 1\Desktop\COOLPAY App Kiosko\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.csproj.CoreCompileInputs.cache
+C:\Users\Programacion 1\Desktop\COOLPAY App Kiosko\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.csproj.CopyComplete
+C:\Users\Programacion 1\Desktop\COOLPAY App Kiosko\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.dll
+C:\Users\Programacion 1\Desktop\COOLPAY App Kiosko\pagos\PAGOS-BARES LUCAS\MercadoPagoPaymentQR\obj\Debug\net472\MercadoPagoPaymentQR.pdb

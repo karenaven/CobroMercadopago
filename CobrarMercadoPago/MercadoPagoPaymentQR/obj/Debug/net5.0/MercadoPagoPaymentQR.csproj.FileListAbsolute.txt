@@ -1,0 +1,24 @@
+C:\Users\Renzo\Desktop\App de prueba\prueba001\MercadoPagoPaymentQR\bin\Debug\net5.0\MercadoPagoPaymentQR.deps.json
+C:\Users\Renzo\Desktop\App de prueba\prueba001\MercadoPagoPaymentQR\bin\Debug\net5.0\MercadoPagoPaymentQR.dll
+C:\Users\Renzo\Desktop\App de prueba\prueba001\MercadoPagoPaymentQR\bin\Debug\net5.0\ref\MercadoPagoPaymentQR.dll
+C:\Users\Renzo\Desktop\App de prueba\prueba001\MercadoPagoPaymentQR\bin\Debug\net5.0\MercadoPagoPaymentQR.pdb
+C:\Users\Renzo\Desktop\App de prueba\prueba001\MercadoPagoPaymentQR\obj\Debug\net5.0\MercadoPagoPaymentQR.csproj.AssemblyReference.cache
+C:\Users\Renzo\Desktop\App de prueba\prueba001\MercadoPagoPaymentQR\obj\Debug\net5.0\MercadoPagoPaymentQR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzo\Desktop\App de prueba\prueba001\MercadoPagoPaymentQR\obj\Debug\net5.0\MercadoPagoPaymentQR.AssemblyInfoInputs.cache
+C:\Users\Renzo\Desktop\App de prueba\prueba001\MercadoPagoPaymentQR\obj\Debug\net5.0\MercadoPagoPaymentQR.AssemblyInfo.cs
+C:\Users\Renzo\Desktop\App de prueba\prueba001\MercadoPagoPaymentQR\obj\Debug\net5.0\MercadoPagoPaymentQR.csproj.CoreCompileInputs.cache
+C:\Users\Renzo\Desktop\App de prueba\prueba001\MercadoPagoPaymentQR\obj\Debug\net5.0\MercadoPagoPaymentQR.dll
+C:\Users\Renzo\Desktop\App de prueba\prueba001\MercadoPagoPaymentQR\obj\Debug\net5.0\ref\MercadoPagoPaymentQR.dll
+C:\Users\Renzo\Desktop\App de prueba\prueba001\MercadoPagoPaymentQR\obj\Debug\net5.0\MercadoPagoPaymentQR.pdb
+C:\Users\Renzo\Desktop\pagos\PAGOS-BARES 06-09-21\MercadoPagoPaymentQR\bin\Debug\net5.0\MercadoPagoPaymentQR.deps.json
+C:\Users\Renzo\Desktop\pagos\PAGOS-BARES 06-09-21\MercadoPagoPaymentQR\bin\Debug\net5.0\MercadoPagoPaymentQR.dll
+C:\Users\Renzo\Desktop\pagos\PAGOS-BARES 06-09-21\MercadoPagoPaymentQR\bin\Debug\net5.0\ref\MercadoPagoPaymentQR.dll
+C:\Users\Renzo\Desktop\pagos\PAGOS-BARES 06-09-21\MercadoPagoPaymentQR\bin\Debug\net5.0\MercadoPagoPaymentQR.pdb
+C:\Users\Renzo\Desktop\pagos\PAGOS-BARES 06-09-21\MercadoPagoPaymentQR\obj\Debug\net5.0\MercadoPagoPaymentQR.csproj.AssemblyReference.cache
+C:\Users\Renzo\Desktop\pagos\PAGOS-BARES 06-09-21\MercadoPagoPaymentQR\obj\Debug\net5.0\MercadoPagoPaymentQR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzo\Desktop\pagos\PAGOS-BARES 06-09-21\MercadoPagoPaymentQR\obj\Debug\net5.0\MercadoPagoPaymentQR.AssemblyInfoInputs.cache
+C:\Users\Renzo\Desktop\pagos\PAGOS-BARES 06-09-21\MercadoPagoPaymentQR\obj\Debug\net5.0\MercadoPagoPaymentQR.AssemblyInfo.cs
+C:\Users\Renzo\Desktop\pagos\PAGOS-BARES 06-09-21\MercadoPagoPaymentQR\obj\Debug\net5.0\MercadoPagoPaymentQR.csproj.CoreCompileInputs.cache
+C:\Users\Renzo\Desktop\pagos\PAGOS-BARES 06-09-21\MercadoPagoPaymentQR\obj\Debug\net5.0\MercadoPagoPaymentQR.dll
+C:\Users\Renzo\Desktop\pagos\PAGOS-BARES 06-09-21\MercadoPagoPaymentQR\obj\Debug\net5.0\ref\MercadoPagoPaymentQR.dll
+C:\Users\Renzo\Desktop\pagos\PAGOS-BARES 06-09-21\MercadoPagoPaymentQR\obj\Debug\net5.0\MercadoPagoPaymentQR.pdb
