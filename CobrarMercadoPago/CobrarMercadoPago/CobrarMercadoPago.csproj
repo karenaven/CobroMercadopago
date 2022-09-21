@@ -8,4 +8,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="QrCode.Net" Version="0.4.0" />
+    <PackageReference Include="RestSharp" Version="108.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MercadoPagoPaymentQR\MercadoPagoPaymentQR.csproj" />
+  </ItemGroup>
+
 </Project>
